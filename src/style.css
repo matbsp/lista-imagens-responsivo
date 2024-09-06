@@ -1,0 +1,141 @@
+body{
+    height: 1817px;
+    width: 375px;
+}
+
+div{
+    padding-left: 44px;
+    padding-top: 40px;
+}
+
+h1,p{
+    color:#FFFFFF
+}
+
+h1{
+    font-weight: 700;
+    font-size: 30px;
+    position: absolute;
+}
+
+p{
+    font-weight: 300;
+    font-size: 17px;
+    position: absolute;
+}
+
+img{
+    width: 335px;
+    height: 431.03px;
+}
+
+.rome{
+    top: 390px;
+    right: 280px;
+}
+
+.michel{
+    top: 425px;
+    right: 256px;
+}
+
+.boat{
+    top: 830px;
+    right: 192px;
+}
+
+.vincent0{
+    top: 872px;
+    right: 218px;
+}
+
+.sand{
+    top: 1265px;
+    right: 161px;
+}
+
+.vinci{
+    top: 1307px;
+    right: 291px;
+}
+
+.night{
+    top: 1690px;
+    right: 183px;
+}
+
+.vincent1{
+    top: 1733px;
+    right: 221px;
+}
+
+@media(min-width:768px){
+
+body{
+    width: 1440px;
+    height: 689px;
+    overflow: hidden;
+    display:flex;
+    align-items: center;
+}
+
+ ul{
+    display:flex;
+ }
+
+ li{
+    margin:10px
+ }
+
+ h1{
+    font-weight: 700;
+    font-size: 30px;
+    position: absolute;
+}
+
+p{
+    font-weight: 300;
+    font-size: 17px;
+    position: absolute;
+}
+ .rome{
+    top: 472px;
+    right: 1372px;
+}
+
+.michel{
+    right: 1348px;
+    top: 515px;
+}
+
+.boat{
+    top: 472px;
+    right: 945px;
+}
+
+.vincent0{
+    top: 515px;
+    right: 969px;
+}
+
+.sand{
+    top: 472px;
+    right: 558px;
+}
+
+.vinci{
+    top: 515px;
+    right: 689px;
+}
+
+.night{
+    top: 472px;
+    right: 225px;
+}
+
+.vincent1{
+    top: 515px;
+    right: 259px;
+}
+
+}
